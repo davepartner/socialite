@@ -6,7 +6,7 @@ It enables users to login and signup to your laravel platform using twitter, fac
 The video tutorials for this repo is on [Udemy](https://www.udemy.com/course/1556150)
 
 ## Usage
-1. Install laravel
+1. Clone this app and setup database configurations in the .env file
 2. Run Migrations
 3. run `php artisan serve`
 
