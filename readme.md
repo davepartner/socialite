@@ -1,5 +1,6 @@
-# Pmanager 
-This is a project management system built with Laravel 5.5
+# Laravel socialite 
+This is a social media login system built with laravel 5.6, it works for laravel 5.3 and above.
+It enables users to login and signup to your laravel platform using twitter, facebook, linkedin, google plus and github. They just have to click one button and the whole signup process, signin, picture upload, user profile etc will be created.
 
 ## Tutorial
 The video tutorials for this repo is on [Udemy](https://www.udemy.com/course/1556150)
@@ -7,10 +8,9 @@ The video tutorials for this repo is on [Udemy](https://www.udemy.com/course/155
 ## Usage
 1. Install laravel
 2. Run Migrations
-3. Signup a user and log in
-Enjoy
+3. run `php artisan serve`
 
-The follow the youtube channel for the tutorial on the steps above. 
+You can follow the my [Udemy](https://www.udemy.com/course/1556150) for the tutorial on the steps above. 
 
 That's all, you are good to go.
 
@@ -29,9 +29,8 @@ Follow me on my social media handles
 
 ## Contacts
 
-* You can reach the me on `daveozoalor@gmail.com`, I'd like to join your team.
-* Just buzz me up on [facebook](http://facebook.com/daveozoalor)
+* You can reach the me on `daveozoalor@gmail.com`
 
 ## License
 
-Fireblogger is open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT).
+Socialite is open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT).
