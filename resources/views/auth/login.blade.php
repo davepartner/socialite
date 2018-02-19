@@ -96,6 +96,24 @@
                             </div>
                         </div>
 
+                        <div class="form-group row mb-0" style="margin-top: 10px;" >
+                            <div class="col-md-8 offset-md-4">
+                            <a  href="/login/linkedin" class="btn  btn-primary" >
+                            <i class="fab fa-linkedin"></i> Sign in with Linkedin</a>
+                        
+                            </div>
+                        </div>
+
+
+                        <div class="form-group row mb-0" style="margin-top: 10px;" >
+                            <div class="col-md-8 offset-md-4">
+                            <a  href="/login/google" class="btn  btn-primary" >
+                            <i class="fab fa-google"></i> Sign in with Google</a>
+                        
+                            </div>
+                        </div>
+
+
                         
 
                 </div>

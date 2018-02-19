@@ -29,3 +29,10 @@ Route::get('login/twitter/callback', 'Auth\TwitterController@handleProviderCallb
 //github
 Route::get('login/github', 'Auth\GithubController@redirectToProvider');
 Route::get('login/github/callback', 'Auth\GithubController@handleProviderCallback');
+//linkedin
+Route::get('login/linkedin', 'Auth\LinkedinController@redirectToProvider');
+Route::get('login/linkedin/callback', 'Auth\LinkedinController@handleProviderCallback');
+
+//google
+Route::get('login/google', 'Auth\GoogleController@redirectToProvider');
+Route::get('login/google/callback', 'Auth\GoogleController@handleProviderCallback');

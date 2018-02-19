@@ -51,5 +51,15 @@ return [
         'client_secret' => '6a1dd77e3c948e4f0f929fc5a85ee0ff318d5aa1', // Your github Client Secret
         'redirect' => 'http://localhost:8000/login/github/callback',
     ],
+    'linkedin' => [
+        'client_id' => '77gpcnslk4r1nm',         // Your linkedin Client ID
+        'client_secret' => 'PZd9r8QidEQxP9FW', // Your linkedin Client Secret
+        'redirect' => 'http://localhost:8000/login/linkedin/callback',
+    ],
+    'google' => [
+        'client_id' => '366049614781-dsrvkl028r45n77u5p9diqm709vpaok5.apps.googleusercontent.com',         // Your google Client ID
+        'client_secret' => 'WMmQNVvGohVMvpIx7o-doI2X', // Your google Client Secret
+        'redirect' => 'http://localhost:8000/login/google/callback',
+    ],
 
 ];
